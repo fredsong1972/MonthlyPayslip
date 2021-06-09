@@ -20,9 +20,11 @@ In application settings, configured the tax rates file which is CSV format.
 Buid the solution with Visual Studio First. You can run it from Visual Studio or command line. 
 For command line, please go to the bin folder, PayslipApp\bin\[Debug | Release]\netcoreapp3.1.
 
-This is a framework-dependent application. Run it from command line as the below
+This is a cross-platform application. Run it from command line as the below
 
 donet MonthlyPayslip.dll
+
+For Windows platform, you can run MonthlyPayslip.exe.
 
 ## Input
 This solution has a default taxrate.csv. You can replace it with your own csv file in the data folder of the runing directory.
