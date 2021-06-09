@@ -21,6 +21,7 @@ Buid the solution with Visual Studio First. You can run it from Visual Studio or
 For command line, please go to the bin folder, PayslipApp\bin\[Debug | Release]\netcoreapp3.1.
 
 This is a framework-dependent application. Run it from command line as the below
+
 donet MonthlyPayslip.dll
 
 ## Input
